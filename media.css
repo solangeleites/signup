@@ -4,11 +4,30 @@
         margin: 0 auto;
         backdrop-filter: blur( 15px );
     }
-    .btn2{
-        justify-content: space-evenly;
-        gap: 5px;
-        margin: 0px 5px;
-        padding: 10px;
+    form{
+        margin: 20px;
     }
-    
+    input{
+    width: 240px;
+    font-weight: 500;
+}
+.signup-otra{
+    gap: 10px;
+}
+.btn2{
+    max-width: 200px;
+    margin: 0 auto;
+    gap: 5px;
+}
+.btn-redes{
+    width: 95px;
+    margin: 0 auto;
+}
+button{
+    font-weight: 700;
+}
+a{
+    text-align: center;
+    margin: 0 auto;
+}
 }
